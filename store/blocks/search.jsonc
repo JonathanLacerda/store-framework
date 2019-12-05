@@ -23,6 +23,7 @@
          "search-fetch-more"
       ]
   },
+  
   "flex-layout.row#top": {
       "children": [
       "total-products.v2",
