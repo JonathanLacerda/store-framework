@@ -65,7 +65,8 @@
     "props":{
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
-      "initialSelection": "empty"
+      "initialSelection": "empty",
+      "showValueNameForImageVariation": true
     }
   },
 
@@ -76,4 +77,3 @@
     }
   }
 }
-
