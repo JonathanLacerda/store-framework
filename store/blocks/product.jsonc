@@ -32,12 +32,12 @@
       "product-name",
       "product-identifier.product",
       "product-price",
-      "flex-layout.row#qty-sku",
+      "flex-layout.row#teste",
       "buy-button"
     ]
   },
 
-  "flex-layout.row#qty-sku": {
+  "flex-layout.row#teste": {
     "children": [
       "sku-selector",
       "product-quantity",
